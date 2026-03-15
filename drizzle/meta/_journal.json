@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1771532214186,
+      "tag": "0000_legal_shaman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1771532410794,
+      "tag": "0001_ancient_mikhail_rasputin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1773049641226,
+      "tag": "0002_typical_glorian",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1773474606094,
+      "tag": "0003_fast_sway",
+      "breakpoints": true
+    }
+  ]
+}
